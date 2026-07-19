@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Infrastructure\obj\Debug\net9.0\EmployeeManagement.Infrastructure.csproj.CoreCompileInputs.cache

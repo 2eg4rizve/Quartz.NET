@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AGJ0u0oW6Qk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Documents\\Quartz.NET\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

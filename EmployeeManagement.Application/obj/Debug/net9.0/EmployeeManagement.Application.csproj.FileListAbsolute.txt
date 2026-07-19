@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\bin\Debug\net9.0\EmployeeManagement.Application.deps.json
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\bin\Debug\net9.0\EmployeeManagement.Application.dll
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\bin\Debug\net9.0\EmployeeManagement.Application.pdb
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\bin\Debug\net9.0\EmployeeManagement.Domain.dll
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\bin\Debug\net9.0\EmployeeManagement.Domain.pdb
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\obj\Debug\net9.0\EmployeeManagement.Application.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\obj\Debug\net9.0\EmployeeManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\obj\Debug\net9.0\EmployeeManagement.Application.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\obj\Debug\net9.0\EmployeeManagement.Application.AssemblyInfo.cs
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\obj\Debug\net9.0\EmployeeManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\obj\Debug\net9.0\Employee.16DA35CB.Up2Date
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\obj\Debug\net9.0\EmployeeManagement.Application.dll
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\obj\Debug\net9.0\refint\EmployeeManagement.Application.dll
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\obj\Debug\net9.0\EmployeeManagement.Application.pdb
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\obj\Debug\net9.0\ref\EmployeeManagement.Application.dll
