@@ -13,9 +13,18 @@ public class EmployeesController(IEmployeeService service) : ControllerBase
     [HttpGet("{id:int}")] public async Task<ActionResult<EmployeeDto>> GetById(int id, CancellationToken ct) => await service.GetByIdAsync(id, ct) is { } employee ? Ok(employee) : NotFound();
     [HttpPost]
     public async Task<ActionResult<EmployeeDto>> Create(CreateEmployeeRequest request, IValidator<CreateEmployeeRequest> validator, CancellationToken ct)
-    { var result = await validator.ValidateAsync(request, ct); if (!result.IsValid) return ValidationProblem(result.ToDictionary()); var employee = await service.CreateAsync(request, ct); return CreatedAtAction(nameof(GetById), new { employee.Id }, employee); }
+    {
+        var result = await validator.ValidateAsync(request, ct);
+        if (!result.IsValid) return ValidationProblem(new ValidationProblemDetails(result.ToDictionary()));
+        var employee = await service.CreateAsync(request, ct);
+        return CreatedAtAction(nameof(GetById), new { employee.Id }, employee);
+    }
     [HttpPut("{id:int}")]
     public async Task<IActionResult> Update(int id, UpdateEmployeeRequest request, IValidator<UpdateEmployeeRequest> validator, CancellationToken ct)
-    { var result = await validator.ValidateAsync(request, ct); if (!result.IsValid) return ValidationProblem(result.ToDictionary()); return await service.UpdateAsync(id, request, ct) ? NoContent() : NotFound(); }
+    {
+        var result = await validator.ValidateAsync(request, ct);
+        if (!result.IsValid) return ValidationProblem(new ValidationProblemDetails(result.ToDictionary()));
+        return await service.UpdateAsync(id, request, ct) ? NoContent() : NotFound();
+    }
     [HttpDelete("{id:int}")] public async Task<IActionResult> Delete(int id, CancellationToken ct) => await service.DeleteAsync(id, ct) ? NoContent() : NotFound();
 }

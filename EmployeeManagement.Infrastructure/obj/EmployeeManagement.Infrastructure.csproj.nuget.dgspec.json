@@ -213,6 +213,14 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[10.0.10, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[10.0.10, )"
+            },
             "Quartz.Extensions.Hosting": {
               "target": "Package",
               "version": "[3.13.1, )"

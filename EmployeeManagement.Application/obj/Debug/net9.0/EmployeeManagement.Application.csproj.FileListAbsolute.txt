@@ -13,3 +13,4 @@ C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\obj\Debug\net9.0
 C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\obj\Debug\net9.0\refint\EmployeeManagement.Application.dll
 C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\obj\Debug\net9.0\EmployeeManagement.Application.pdb
 C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\obj\Debug\net9.0\ref\EmployeeManagement.Application.dll
+C:\Users\HP\Documents\Quartz.NET\EmployeeManagement.Application\obj\Debug\net9.0\EmployeeManagement.Application.sourcelink.json
